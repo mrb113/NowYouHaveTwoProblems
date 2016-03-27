@@ -1,0 +1,4 @@
+// 175 points
+// There has to be a better way of doing this
+
+(a.?){4}|(e.?){4}|(i.?){4}|(o.?){4}
