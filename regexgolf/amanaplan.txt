@@ -1,0 +1,5 @@
+// 176 points
+// Palindromes
+// What I'm doing is matching words whose first and last two letters are the same, but in reverse. Not a real palindrome searcher, but works for the list of words given.
+
+^(.)(.).*\2\1$
