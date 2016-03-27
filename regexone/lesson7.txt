@@ -1,0 +1,5 @@
+c
+
+// This doesn't use its Kleene stuff. To match the full string, you can do
+
+aa+b*c+

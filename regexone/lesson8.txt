@@ -1,0 +1,6 @@
+\d
+
+// These examples are terrible and you can solve them without hitting the concepts it wants
+// To select the whole line:
+
+\d+ files? found\?

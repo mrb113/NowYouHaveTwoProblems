@@ -1,0 +1,2 @@
+// Guess we're gonna match whole lines
+\d\.\s+abc

@@ -1,0 +1,3 @@
+// Match email and capture the name of the email
+// Watch out for plus addressing!
+^([\w\.]+)
