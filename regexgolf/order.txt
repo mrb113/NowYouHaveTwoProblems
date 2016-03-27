@@ -1,0 +1,2 @@
+// 183 points
+^[a-gm][b-o][c-t][d-t][e-y]
